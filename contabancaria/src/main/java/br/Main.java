@@ -3,7 +3,6 @@ package br;
 import java.util.Locale;
 import java.util.Scanner;
 
-import main.java.br.ContaTerminal;
 
 public class Main {
     public static void main(String[] args) {

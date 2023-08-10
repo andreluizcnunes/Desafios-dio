@@ -1,4 +1,4 @@
-package main.java.br;
+package br;
 
 public class ContaTerminal {
     
